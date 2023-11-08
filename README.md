@@ -4,7 +4,7 @@ Nesse projeto, foi realizado uma análise exploratória de dados da base de dado
 
 Olist é uma plataforma de comércio eletrônico brasileira que conecta pequenas empresas a canais de vendas online, permitindo que vendam seus produtos em vários marketplaces do Brasil. A empresa também oferece serviços de logística e gerenciamento de pedidos para seus clientes.
 
-Estes são dados comerciais reais, foram anonimizados e as referências às empresas e parceiros no texto da revisão foram substituídas pelos nomes das grandes casas de Game of Thrones.
+Estes são dados comerciais reais, foram anonimizadas as referências às empresas e parceiros.
 
 <a href="https://nbviewer.org/github/math3usvalenca/olist-data-analysis/blob/main/Projeto_Ana%CC%81lise_Explorato%CC%81ria_de_Dados_da_loja_Olist.ipynb" target="_blank" >:rocket: Consulte este link para visualizar o notebook de maneira precisa com todos os gráficos :rocket:</a>
 
