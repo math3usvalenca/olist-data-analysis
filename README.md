@@ -5,7 +5,9 @@
 
 Olist é uma plataforma de comércio eletrônico brasileira que conecta pequenas empresas a canais de vendas online, permitindo que vendam seus produtos em vários marketplaces do Brasil. A empresa também oferece serviços de logística e gerenciamento de pedidos para seus clientes, e gera muitos dados sobre pedidos, pagamentos, entregas, etc.
 
-O CEO não tem visibilidade completa dos KPIs de crescimento da empresa. Para acompanhar a crescimento do negóco, o CEO gostaria de ver as seguintes métricas de crescimento e também gostaria de algumas respostas para perguntas de negócio abaixo:
+O CEO não tem visibilidade completa dos KPIs de crescimento da empresa. Para acompanhar a crescimento do negóco, o CEO gostaria de ver algumas métricas de crescimento e também gostaria de algumas respostas para perguntas de negócio abaixo. Além disso, foi solicitada uma análise de valor dos clientes contidos na base de dados Olist para auxiliar o time de maketing com campanhas precisas.
+
+*A análise do valor do cliente (Customer value) está no diretório customerValue.*
 
 
 #### Para os pedidos:
