@@ -1,5 +1,7 @@
 ### High Value Customer
 
+Notebook viewer: https://nbviewer.org/github/math3usvalenca/olist-data-analysis/blob/main/customerValue/customerValue.ipynb
+
 Foi utilizado o algoritmo de clusterização K-means e as análises se basearem nas métricas RFM:
 
 - Recency - recência de compra de um cliente (o quão recente)
