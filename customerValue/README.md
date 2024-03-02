@@ -53,3 +53,5 @@ Foi utilizado o algoritmo de clusterização K-means e as análises se basearem 
 #### Alguns insights dos clusters
 
 <img src="../img/output2.png"/>
+
+<img src="../img/newplot2.png"/>
